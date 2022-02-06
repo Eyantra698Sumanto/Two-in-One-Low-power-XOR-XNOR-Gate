@@ -65,13 +65,13 @@ The following is the schematic in eSim:
 1. Open a new terminal
 2. Clone this project using the following command:
 
-```git clone https://github.com/Eyantra698Sumanto/Two-in-One-Low-power-XOR-XNOR-Gate.git ```
+```git clone https://github.com/Eyantra698Sumanto/Two-in-One-Low-power-XOR-XNOR-Gate.git ```</br>
 3. Change directory:
 
-```cd xor_xnor```
+```cd xor_xnor```</br>
 4. Run ngspice:
 
-```ngspice xor_xnor_sky130.cir.out```
+```ngspice xor_xnor_sky130.cir.out```</br>
 5. To run the project in eSim:
 
 i) Run eSim</br>
