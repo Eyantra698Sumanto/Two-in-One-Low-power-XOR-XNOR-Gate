@@ -64,7 +64,7 @@ The following is the schematic in eSim:
 ## Steps to run this project
 1. Open a new terminal
 2. Clone this project using the following command:
-'''git clone 
+```git clone ```
 
 ## References
 1. Ahmad, Nabihah & Hasan, Rezaul. (2011). A new design of XOR-XNOR gates for low power application. 10.1109/ICEDSA.2011.5959039. 
