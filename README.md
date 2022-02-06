@@ -61,8 +61,12 @@ The following is the schematic in eSim:
 ![image](https://user-images.githubusercontent.com/58599984/152689138-782225f4-7e95-4ec2-a595-84ae342f1752.png)
 ## NgSpice Plots
 ![image](https://user-images.githubusercontent.com/58599984/152690017-6b2b665c-f73a-46c4-ae52-39135bd46ac7.png)
+## Steps to run this project
+1. Open a new terminal
+2. Clone this project using the following command:
+'''git clone 
 
-## Refernces
+## References
 1. Ahmad, Nabihah & Hasan, Rezaul. (2011). A new design of XOR-XNOR gates for low power application. 10.1109/ICEDSA.2011.5959039. 
 2. K. Ravali, N. R. Vijay, S. Jaggavarapu and R. Sakthivel, "Low power XOR gate design and its applications," 2017 Fourth International Conference on Signal Processing, Communication and Networking (ICSCN), 2017, pp. 1-4, doi: 10.1109/ICSCN.2017.8085699.
 
