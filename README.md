@@ -71,9 +71,9 @@ The following is the schematic in eSim:
 ```ngspice xor_xnor_sky130.cir.out```</br>
 5. To run the project in eSim:
 
-  i) Run eSim</br>
-  ii) Load the project</br>
-  iii) Open eeSchema</br>
+  - Run eSim</br>
+  - Load the project</br>
+  - Open eeSchema</br>
 
 ## References
 1. Ahmad, Nabihah & Hasan, Rezaul. (2011). A new design of XOR-XNOR gates for low power application. 10.1109/ICEDSA.2011.5959039. 
