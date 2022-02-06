@@ -52,9 +52,9 @@ It is an Open Source Software for Spice Simulations. For more details refer:
 http://ngspice.sourceforge.net/docs.html
 ### Sky130 Process Development Kit
 The Skywater 130nm technology is developed by Google for 130nm node. The PDK is open source and current under development.
-<\br>
+</br>
 For more details refer:
-<\br>
+</br>
 https://skywater-pdk.readthedocs.io/en/main/#
 ## Circuit Diagram in eSim
 The following is the schematic in eSim:
@@ -64,16 +64,16 @@ The following is the schematic in eSim:
 ## Steps to run this project
 1. Open a new terminal
 2. Clone this project using the following command:
-<\br>
+</br>
 ```git clone https://github.com/Eyantra698Sumanto/Two-in-One-Low-power-XOR-XNOR-Gate.git ```
 3. Change directory:
-<\br>
+</br>
 ```cd xor_xnor```
 4. Run ngspice:
-<\br>
+</br>
 ```ngspice xor_xnor_sky130.cir.out```
 5. To run the project in eSim:
-<\br>
+</br>
 i) Run eSim
 ii) Load the project
 iii) Open eeSchema
