@@ -32,12 +32,11 @@ This way it consumes less space and less power and is
 efficient in many ways.
 </br>
 ## Truth Table
-| Input A  | Input B | Output XOR  | Output XNOR |
+
+| First Header  | Second Header |
 | ------------- | ------------- |
-| 0  | 0 | 0  | 1 |
-| 0  | 1 | 1| 0|
-| 1  | 0 |1|0|
-| 1 | 1 |0|1|
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ## Software Used
 ### eSim
 It is an Open Source EDA developed by FOSSEE, IIT Bombay. It is used for electronic circuit simulation. It is made by the combination of two software namely NgSpice and KiCAD.
