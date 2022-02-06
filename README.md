@@ -64,7 +64,19 @@ The following is the schematic in eSim:
 ## Steps to run this project
 1. Open a new terminal
 2. Clone this project using the following command:
-```git clone ```
+<\br>
+```git clone https://github.com/Eyantra698Sumanto/Two-in-One-Low-power-XOR-XNOR-Gate.git ```
+3. Change directory:
+<\br>
+```cd xor_xnor```
+4. Run ngspice:
+<\br>
+```ngspice xor_xnor_sky130.cir.out```
+5. To run the project in eSim:
+<\br>
+i) Run eSim
+ii) Load the project
+iii) Open eeSchema
 
 ## References
 1. Ahmad, Nabihah & Hasan, Rezaul. (2011). A new design of XOR-XNOR gates for low power application. 10.1109/ICEDSA.2011.5959039. 
