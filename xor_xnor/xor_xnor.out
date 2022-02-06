@@ -1,0 +1,34 @@
+
+No compatibility mode selected!
+
+warning, can't find model mosfet_n
+warning, can't find model mosfet_n
+warning, can't find model mosfet_n
+warning, can't find model mosfet_p
+warning, can't find model mosfet_p
+warning, can't find model mosfet_p
+
+Circuit: * /home/sumanto/videos/xor_xnor/xor_xnor.cir
+
+Error on line 3 :
+  m2 a b net-_m2-pad3_ 0 mosfet_n
+could not find a valid modelname
+    Simulation interrupted due to error!
+
+Error: circuit not parsed.
+
+Note: no resource usage information for 'time',
+	or no active circuit available
+
+Total CPU time (seconds) = 0.022 
+
+Total DRAM available = 4772.516 MB.
+DRAM currently available =  180.559 MB.
+Maximum ngspice program size =   90.680 MB.
+Current ngspice program size =   10.852 MB.
+
+Shared ngspice pages =    9.297 MB.
+Text (code) pages =    6.242 MB.
+Stack = 0 bytes.
+Library pages =    3.211 MB.
+

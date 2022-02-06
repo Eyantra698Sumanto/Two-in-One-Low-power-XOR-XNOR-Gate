@@ -1,0 +1,19 @@
+* /home/sumanto/Videos/xor_xnor/xor_xnor.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Thu Feb  3 14:55:57 2022
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+M2  A B xnor GND mosfet_n		
+M6  xnor A B GND mosfet_n		
+v1  A GND pulse		
+M4  xor xnor GND GND mosfet_n		
+M3  xnor xor Vdd Vdd mosfet_p		
+v3  Vdd GND DC		
+v2  B GND pulse		
+M5  xor A B Vdd mosfet_p		
+M1  xor B A Vdd mosfet_p		
+
+.end

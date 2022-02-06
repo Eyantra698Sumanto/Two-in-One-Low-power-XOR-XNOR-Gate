@@ -1,0 +1,20 @@
+* /home/sumanto/videos/xor_xnor/xor_xnor.cir
+
+m2  a b xnor gnd mosfet_n
+m6  xnor a b gnd mosfet_n
+v1  a gnd pulse(0 3.3 0.1u 0.1u 0.1u 1m 2m)
+m4  xor xnor gnd gnd mosfet_n
+m3  xnor xor vdd vdd mosfet_p
+v3 vdd gnd  dc 3.3
+v2  b gnd pulse(0 3.3 0.1u 0.1u 0.1u 2m 4m)
+m5  xor a b vdd mosfet_p
+m1  xor b a vdd mosfet_p
+.tran 0.1e-03 20e-03 0e-00
+
+* Control Statements 
+.control
+run
+print allv > plot_data_v.txt
+print alli > plot_data_i.txt
+.endc
+.end
