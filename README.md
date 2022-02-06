@@ -59,6 +59,8 @@ https://skywater-pdk.readthedocs.io/en/main/#
 ## Circuit Diagram in eSim
 The following is the schematic in eSim:
 ![image](https://user-images.githubusercontent.com/58599984/152689138-782225f4-7e95-4ec2-a595-84ae342f1752.png)
+## Netlists
+![image](https://user-images.githubusercontent.com/58599984/152695534-7d150279-55f1-4f62-a689-e7ca643a4266.png)
 ## NgSpice Plots
 ![image](https://user-images.githubusercontent.com/58599984/152690017-6b2b665c-f73a-46c4-ae52-39135bd46ac7.png)
 ## Steps to run this project
