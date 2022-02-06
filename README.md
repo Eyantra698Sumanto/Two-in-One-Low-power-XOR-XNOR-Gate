@@ -14,7 +14,7 @@ efficient.
 ## Circuit Details
 As shown in the figure we have two cross coupled
 circuits of PMOS logic and NMOS logic.
-<\br>
+</br>
 On the PMOS logic we are getting the output as XOR
 while in the NMOS block we get the output as XNOR.
 The transistors M4 and M3 behave as a pass transistor
