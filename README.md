@@ -1,4 +1,23 @@
 # Two-in-One-Low-power-XOR-XNOR-Gate
+## Table of Contents
+- [Abstract](#abstract)
+- [Reference Circuit Diagram](#reference-circuit-diagram)
+- [Reference Waveform](#reference-waveform)
+- [Circuit Details](#circuit-details)
+- [Truth Table](#truth-table)
+- [Software Used](#software-used)
+  * [eSim](#esim)
+  * [NgSpice](#ngspice)
+  * [Sky130 Process Development Kit](#sky130-process-development-kit)
+- [Circuit Diagram in eSim](#circuit-diagram-in-esim)
+- [Netlists](#netlists)
+- [NgSpice Plots](#ngspice-plots)
+- [Steps to run this project](#steps-to-run-this-project)
+- [Acknowlegdements](#acknowlegdements)
+- [References](#references)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Abstract
 With the increasing technology, the size of the transistors is
 reducing. The reducing size leads to the tradeoff between
